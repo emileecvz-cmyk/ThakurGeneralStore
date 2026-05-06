@@ -1,3 +1,4 @@
+import React from 'react';
 import { motion } from 'motion/react';
 import { Shield, Truck, BarChart3, Handshake, MapPin, Phone, Mail } from 'lucide-react';
 import { Link } from 'react-router-dom';

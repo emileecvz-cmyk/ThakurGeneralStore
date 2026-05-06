@@ -1,3 +1,4 @@
+import React from 'react';
 import { motion } from 'motion/react';
 import { Home, Building2, Droplets, Truck, BookOpen, Warehouse, Verified, Globe, Banknote, ArrowRight } from 'lucide-react';
 import { Link } from 'react-router-dom';

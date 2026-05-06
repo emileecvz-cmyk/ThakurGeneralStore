@@ -1,3 +1,4 @@
+import React from 'react';
 import { motion } from 'motion/react';
 import { Quote, Heart, Target, Users } from 'lucide-react';
 

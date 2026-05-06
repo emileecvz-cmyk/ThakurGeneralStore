@@ -1,6 +1,6 @@
+import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { Phone, Mail, MapPin, Building, Mountain, Landmark, Construction, Store, Send, CheckCircle2 } from 'lucide-react';
-import { useState } from 'react';
 
 export default function Contact() {
   const [isSubmitted, setIsSubmitted] = useState(false);

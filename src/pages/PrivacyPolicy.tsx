@@ -1,3 +1,4 @@
+import React from 'react';
 import { motion } from 'motion/react';
 import { Shield, Lock, FileText, Mail, Phone, MapPin } from 'lucide-react';
 
